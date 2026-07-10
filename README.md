@@ -65,9 +65,6 @@ but they won't give me the source code."</i>
 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SahilMahure&theme=transparent&hide_border=true" />
-</p>
 
 
 <p align="center">
