@@ -90,7 +90,5 @@ but they won't give me the source code."</i>
 </p>
  
 <p align="center">
-
-Thanks for stopping by ⭐
-
+  <i>Crafted with ☕, curiosity & countless commits.</i>
 </p>
