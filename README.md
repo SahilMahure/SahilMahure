@@ -37,3 +37,11 @@ Full Stack Developer | React | Next.js | Three.js
 
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <img src="assets/banners/philosophy-banner.png" width="100%" alt="Developer Philosophy">
+</p>
+
+<br>
