@@ -62,3 +62,13 @@ but they won't give me the source code."</i>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilMahure&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMahure&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" height="170" />
+</p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SahilMahure&theme=github-dark-blue&hide_border=true&background=00000000"/>
+</p>
