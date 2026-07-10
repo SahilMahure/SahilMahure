@@ -2,11 +2,19 @@
   <img src="assets/intro.gif" width="100%" alt="Sahil Intro">
 </p>
 
-<h1 align="center">Hi 👋 I'm Sahil Mahure</h1>
+<h1 align="center">
+  Hi 👋 I'm Sahil Mahure
+</h1>
 
-<h3 align="center">
-Full Stack Developer | React | Next.js | Three.js
-</h3>
+<p align="center">
+  <b>Full Stack Developer</b> • React • Next.js • Three.js
+</p>
+
+<p align="center">
+  <i>
+    Building digital experiences that people remember.
+  </i>
+</p>
 
 ---
 
