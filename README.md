@@ -25,6 +25,7 @@
 - 🎮 Love creating cinematic & 3D websites
 - 🌱 Currently learning Three.js and AI
 
+---
   
 ## ⚔ Current Arsenal
 
