@@ -38,10 +38,13 @@ Full Stack Developer | React | Next.js | Three.js
 </tr>
 </table>
 
-<br>
-
 <p align="center">
-  <img src="assets/banners/philosophy-banner.png" width="100%" alt="Developer Philosophy">
+  <img src="assets/dividers/got-divider.png" width="100%" alt="Divider">
 </p>
 
-<br>
+<p align="center">
+  <em>
+    "I can fix the world,<br>
+    but they won't give me the source code."
+  </em>
+</p>
