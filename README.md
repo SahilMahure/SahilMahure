@@ -25,7 +25,6 @@
 - 🎮 Love creating cinematic & 3D websites
 - 🌱 Currently learning Three.js and AI
 
----
   
 ## ⚔ Current Arsenal
 
@@ -47,6 +46,8 @@
 </tr>
 </table>
 
+---
+
 <p align="center">
   <img src="./assets/banners/philosophy-banner.png" width="100%" alt="Divider">
 </p> 
@@ -59,3 +60,5 @@ but they won't give me the source code."</i>
 <p align="center">
   <img src="./assets/banners/philosophy-banner.png" width="100%" alt="Divider">
 </p>
+
+---
