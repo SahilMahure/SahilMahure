@@ -16,3 +16,22 @@ Full Stack Developer | React | Next.js | Three.js
 - 💻 Passionate about Full Stack Development
 - 🎮 Love creating cinematic & 3D websites
 - 🌱 Currently learning Three.js and AI
+  ## ⚔ Current Arsenal
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="assets/skills/cpp.jpg" width="180"><br>
+<b>C++</b><br>
+<i>Building strong fundamentals.</i>
+</td>
+
+<td align="center">
+<img src="assets/skills/python.jpg" width="180"><br>
+<b>Python</b><br>
+<i>Automation & AI.</i>
+</td>
+
+</tr>
+</table>
