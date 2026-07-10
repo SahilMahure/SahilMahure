@@ -39,7 +39,7 @@ Full Stack Developer | React | Next.js | Three.js
 </table>
 
 <p align="center">
-  <img src="assets/dividers/got-divider.png" width="100%" alt="Divider">
+  <img src="assets/dividers/philosophy-banner.png" width="100%" alt="Divider">
 </p>
 
 <p align="center">
@@ -50,5 +50,5 @@ Full Stack Developer | React | Next.js | Three.js
 </p>
 
 <p align="center">
-  <img src="assets/dividers/got-divider.png" width="100%" alt="Divider">
+  <img src="assets/dividers/philosophy-banner.png" width="100%" alt="Divider">
 </p>
