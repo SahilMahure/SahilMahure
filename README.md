@@ -1,19 +1,18 @@
-## Hi there 👋
-
-<!--
-**SahilMahure/SahilMahure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <p align="center">
-  <img src="intro.gif" width="100%">
+<p align="center">
+  <img src="assets/intro.gif" width="100%" alt="Sahil Intro">
 </p>
+
+<h1 align="center">Hi 👋 I'm Sahil Mahure</h1>
+
+<h3 align="center">
+Full Stack Developer | React | Next.js | Three.js
+</h3>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Student at Symbiosis Institute of Technology
+- 💻 Passionate about Full Stack Development
+- 🎮 Love creating cinematic & 3D websites
+- 🌱 Currently learning Three.js and AI
