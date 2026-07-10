@@ -63,10 +63,7 @@ but they won't give me the source code."</i>
 
 ---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SahilMahure&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMahure&layout=compact&theme=transparent&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SahilMahure&theme=transparent&hide_border=true" />
