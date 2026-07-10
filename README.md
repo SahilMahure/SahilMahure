@@ -48,3 +48,7 @@ Full Stack Developer | React | Next.js | Three.js
     but they won't give me the source code."
   </em>
 </p>
+
+<p align="center">
+  <img src="assets/dividers/got-divider.png" width="100%" alt="Divider">
+</p>
